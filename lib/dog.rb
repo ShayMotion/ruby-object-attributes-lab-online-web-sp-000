@@ -1,5 +1,5 @@
 class Dog
 end
 
-def name = "fido" 
+def name = fido" .name
   fido
